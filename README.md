@@ -7,4 +7,4 @@ En este ejercicio usamos:
 - Especificidad de selectores
 
 Resultado final:
-[![Google Clone -  Final](https://imgur.com/VAYGl3m "Google Clone -  Final")](https://imgur.com/VAYGl3m "Google Clone -  Final")
+![](https://imgur.com/VAYGl3m)

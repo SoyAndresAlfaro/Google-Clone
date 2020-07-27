@@ -7,4 +7,4 @@ En este ejercicio usamos:
 - Especificidad de selectores
 
 Resultado final:
-[Imgur](https://i.imgur.com/VAYGl3m.png)
+![Final result](https://imgur.com/VAYGl3m.png)
